@@ -1,0 +1,17 @@
+{
+  "name": "social_distance",
+  "version": "1.0.0",
+  "description": "Simple RESTful API to get users and calculate distance between them",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Ronald Gonzales",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

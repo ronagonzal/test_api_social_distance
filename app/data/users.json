@@ -1,0 +1,42 @@
+{
+    "userA" : {
+         "Following" : ["userB", "userD","userE", "userG"],
+         "Followers" : ["userB", "userD","userE", "userG"] 
+    },
+    "userB" : {
+         "Following" : ["userC", "userJ","userI", "userE"], 
+         "Followers" : ["userC", "userJ","userI", "userE"] 
+     },
+     "userC" : {
+         "Following" : ["userM", "userN","userJ", "userI", "userE"],
+         "Followers" : ["userM", "userN","userJ", "userI", "userE"] 
+     },
+     "userD" : {
+         "Following" : [],
+         "Followers" : []
+     },
+     "userE" : {
+         "Following" : [],
+         "Followers" : []
+      }, 
+      "userG" : {
+         "Following" : [],
+         "Followers" : []
+     },     
+     "userI" : {
+         "Following" : [],
+         "Followers" : []
+      },      
+      "userJ" : {
+         "Following" : [],
+         "Followers" : []
+      },                
+     "userM" : {
+         "Following" : [],
+         "Followers" : []
+     },
+     "userN" : {
+         "Following" : [],
+         "Followers" : []
+      }     
+}
